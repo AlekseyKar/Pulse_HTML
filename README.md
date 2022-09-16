@@ -1,2 +1,11 @@
 # Pulse_land
-Html(БЕМ)>Css(Flexbox)>Scss>Js(JQuery)>Npm(Gulp)
+
+## RunSmart макет одностраничного сайта по продаже спортивных гаджетов.
+
+### При верстке опирался на технологии: 
+
+* HTML (БЭМ)
+* Bootstrap ( сетка )
+* CSS ( Scss )
+* JS
+* NPM (Gulp)
