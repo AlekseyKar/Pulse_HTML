@@ -1,4 +1,4 @@
-# Pulse_land
+# Pulse_HTML
 
 ## RunSmart макет одностраничного сайта по продаже спортивных гаджетов.
 
@@ -6,6 +6,3 @@
 
 * HTML (БЭМ)
 * Bootstrap ( сетка )
-* CSS ( Scss )
-* JS
-* NPM (Gulp)
